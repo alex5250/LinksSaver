@@ -1,0 +1,12 @@
+C:\Users\School\source\repos\SchoolLinks\SchoolLinks\bin\Release\SchoolLinks.exe.config
+C:\Users\School\source\repos\SchoolLinks\SchoolLinks\bin\Release\SchoolLinks.exe
+C:\Users\School\source\repos\SchoolLinks\SchoolLinks\bin\Release\SchoolLinks.pdb
+C:\Users\School\source\repos\SchoolLinks\SchoolLinks\bin\Release\INIFileParser.dll
+C:\Users\School\source\repos\SchoolLinks\SchoolLinks\bin\Release\INIFileParser.xml
+C:\Users\School\source\repos\SchoolLinks\SchoolLinks\obj\Release\SchoolLinks.Form1.resources
+C:\Users\School\source\repos\SchoolLinks\SchoolLinks\obj\Release\SchoolLinks.Properties.Resources.resources
+C:\Users\School\source\repos\SchoolLinks\SchoolLinks\obj\Release\SchoolLinks.csproj.GenerateResource.cache
+C:\Users\School\source\repos\SchoolLinks\SchoolLinks\obj\Release\SchoolLinks.csproj.CoreCompileInputs.cache
+C:\Users\School\source\repos\SchoolLinks\SchoolLinks\obj\Release\SchoolLinks.csproj.CopyComplete
+C:\Users\School\source\repos\SchoolLinks\SchoolLinks\obj\Release\SchoolLinks.exe
+C:\Users\School\source\repos\SchoolLinks\SchoolLinks\obj\Release\SchoolLinks.pdb
